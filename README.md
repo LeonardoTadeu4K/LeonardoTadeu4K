@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @LeonardoTadeu4K
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Boas vindas ao meu perfil :blue_heart
 
-<!---
-LeonardoTadeu4K/LeonardoTadeu4K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fcriticalhits.com.br%2Fartigos%2F5-coisas-que-paladins-faz-melhor-overwatch%2F&psig=AOvVaw080-RREebsOIketCqlfH9S&ust=1693067018223000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLivo6Wc-IADFQAAAAAdAAAAABAI
+Meu nome é Marcelo Paludetto
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo :mailbox
+
+paludettomarcelo@gmail.com
+
+@marcelopaludetto
+
+![descrição do GIF](![image](https://github.com/LeonardoTadeu4K/LeonardoTadeu4K/assets/142615189/00e7a614-136f-46dd-952a-32dd4c4943ff)
+)
