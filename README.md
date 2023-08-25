@@ -8,3 +8,4 @@
 LeonardoTadeu4K/LeonardoTadeu4K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fcriticalhits.com.br%2Fartigos%2F5-coisas-que-paladins-faz-melhor-overwatch%2F&psig=AOvVaw080-RREebsOIketCqlfH9S&ust=1693067018223000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLivo6Wc-IADFQAAAAAdAAAAABAI
